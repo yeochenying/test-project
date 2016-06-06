@@ -49,8 +49,6 @@ public class test {
 			System.out.println("A7. False");
 		}
 		
-//		test a = new test();
-//		a.anotherQuestion1();
 		
 		int a = 5;
 		System.out.println(cude(a));
