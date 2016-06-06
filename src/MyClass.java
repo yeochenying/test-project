@@ -10,6 +10,7 @@ public class MyClass {
 		my.question2(2);
 //		my.question3();
 //		my.question4();
+//		Khairul is here
 	}
 	
 	int cude(int theNum) {
