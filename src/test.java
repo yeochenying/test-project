@@ -6,7 +6,7 @@ public class test {
 		String msg1 = "Hello World";
 		String msg2 = new String("Hello World");
 		String msg3 = "hi";
-		String msg4 = "Khairul here";
+		String msg4 = "Khairul here again";
 		
 		if (msg1 == "Hello World") {
 			System.out.println("A1. True");
