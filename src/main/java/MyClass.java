@@ -7,7 +7,8 @@ public class MyClass {
 //		System.out.println(cude(a));
 		
 		MyClass my = new MyClass();
-		my.question2(1367);
+
+		my.question2(88);
 //		my.question3();
 //		my.question4();
 //		Khairul is here again 03
