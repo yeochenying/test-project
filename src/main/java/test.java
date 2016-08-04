@@ -8,6 +8,8 @@ public class test {
 		String msg3 = "hi";
 		String msg4 = "Khairul here again 03";
 		
+		String msg5 = "Boey!!!";
+		
 		if (msg1 == "Hello World") {
 			System.out.println("A1. True");
 		} else {
