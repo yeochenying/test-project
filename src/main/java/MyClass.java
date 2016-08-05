@@ -8,7 +8,7 @@ public class MyClass {
 		
 		MyClass my = new MyClass();
 
-		my.question2(88);
+		my.question2(70);
 //		my.question3();
 //		my.question4();
 //		Khairul is here again 03
