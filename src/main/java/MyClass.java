@@ -10,7 +10,7 @@ public class MyClass {
 		my.question2(111999);
 //		my.question3();
 //		my.question4();
-//		Yeo new lesson 01
+//		Yeo new lesson 02
 	}
 	
 	int cude(int theNum) {
